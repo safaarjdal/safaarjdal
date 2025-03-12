@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @safaarjdal, physics student
+- 👋 Hi, I’m @safaarjdal
 - 👀 I’m interested in the IT world 👾
 - 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on ...
